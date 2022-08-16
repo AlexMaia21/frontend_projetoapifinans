@@ -1,24 +1,44 @@
-# projeto-finans
+# Projeto Finans - Front-end
+* [Sobre](#Sobre)
+* [Autor](#Autor)
+* [Instalação](#Instalação)
+* [Tecnologias](#Tecnologias)
+* [Preview](#Preview)
 
-## Project setup
+##Sobre
+<h1 align="center">
+  <img alt="finans" src="./src/assets/screenshot-finans.png" />
+</h1>
+<p>Finans é um Dashboard financeiro feito com Vue Js onde se pode incluir receitas e despesas e obter gráficos através de dados obtidos de um Back-end feito em PHP e MYSQL.</p>
+
+## Autor
+Developed by Alex Maia 🚀
+
+## Instalação
+Instalar projeto
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+Compilar e abrir servidor para desenvolvimento
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+Compilar e minificar para produção
 ```
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Tecnologias
+As seguintes ferramentas foram usadas na construção do Front-end do projeto:
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- [Vue Js](https://vuejs.org/)
+- [Vue Router](https://router.vuejs.org)
+- [Vuex](https://vuex.vuejs.org)
+- [Vuetify](https://vuetify.com/en/)
+- [Axios](https://axios-http.com/)
+- [Chart Js](https://www.chartjs.org/)
+
+## Preview
+

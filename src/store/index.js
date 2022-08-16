@@ -5,13 +5,14 @@ Vue.use(Vuex)
 
 export default new Vuex.Store({
   state: {
-  },
-  getters: {
+    userAuth: false
   },
   mutations: {
+    authorize(state){
+      state.userAuth = true;
+    },
+    disallow(state){
+      state.userAuth = false;
+    }
   },
-  actions: {
-  },
-  modules: {
-  }
-})
+});
