@@ -3,7 +3,6 @@
 * [Autor](#Autor)
 * [Instalação](#Instalação)
 * [Tecnologias](#Tecnologias)
-* [Preview](#Preview)
 
 ##Sobre
 <h1 align="center">
@@ -39,6 +38,3 @@ As seguintes ferramentas foram usadas na construção do Front-end do projeto:
 - [Vuetify](https://vuetify.com/en/)
 - [Axios](https://axios-http.com/)
 - [Chart Js](https://www.chartjs.org/)
-
-## Preview
-
