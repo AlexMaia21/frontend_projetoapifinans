@@ -4,7 +4,7 @@
 * [Instalação](#Instalação)
 * [Tecnologias](#Tecnologias)
 
-##Sobre
+## Sobre
 <h1 align="center">
   <img alt="finans" src="./src/assets/screenshot-finans.png" />
 </h1>
